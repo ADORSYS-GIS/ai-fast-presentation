@@ -22,5 +22,6 @@
     "mermaid": "^10.9.1",
     "reveal.js": "^5.1.0",
     "reveal.js-mermaid-plugin": "^2.3.0"
-  }
+  },
+  "packageManager": "yarn@4.9.1"
 }
